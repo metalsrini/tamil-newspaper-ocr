@@ -33,7 +33,7 @@ This section guides you through submitting an enhancement suggestion, including 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/tamil-newspaper-ocr.git
+git clone https://github.com/metalsrini/tamil-newspaper-ocr.git
 
 # Initialize environment
 ./setup.sh

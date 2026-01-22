@@ -133,7 +133,7 @@
 #### Option 1: Automated Setup (Recommended)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tamil-newspaper-ocr.git
+git clone https://github.com/metalsrini/tamil-newspaper-ocr.git
 cd tamil-newspaper-ocr
 chmod +x setup.sh
 ./setup.sh
