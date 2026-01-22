@@ -1,0 +1,15 @@
+# Tamil Newspaper OCR Scanner
+# PaddleOCR dependencies for Mac M1
+
+# Core Dependencies
+paddlepaddle>=3.0.0
+paddleocr>=2.9.0
+
+# Image Processing
+opencv-python>=4.6.0
+Pillow>=9.0.0
+numpy>=1.21.0
+
+# Additional utilities (optional)
+# For PDF support
+# pypdfium2>=4.0.0
